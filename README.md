@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BabaYaga007j](https://github.com/BabaYaga007j)
+- 👨‍💻 All of my projects are available at [https://github.com/BabaYaga007j](https://github.com/Sourav-Lonewolf-007)
 
 - 💬 Ask me about **JAVA, MYSQL, HTML, CSS, JAVASCRIPT, LINUX**
 
