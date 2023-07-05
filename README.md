@@ -1,4 +1,4 @@
-<img src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" alt="Image" style="width: 800px; display: block; margin: 0 auto;">
+<img src="https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif" alt="Image" style="width: 1200px; display: block; margin: 0 auto;">
 [![MasterHead](https://www.identityrpg.com/community/uploads/monthly_2018_11/EFC69CFB-1FA9-4D70-B053-CCEC7D033681.thumb.gif.1627beaa8e419ab59f781dce4993187b.gif)]
 <h1 align="center">Hi 👋, I'm Soumya Sourav</h1>
 <h3 align="center">A passionate, logical and results-driven developer from India, dedicated to building and optimizing user-focused websites and applications. Judicious and creative when crafting effective websites, apps and platforms to propel competitive advantage and revenue growth. Technically proficient and analytical problem solver with calm and focused demeanor. Having knowledge of Manual and Automation Testing.</h3>
